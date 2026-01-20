@@ -20,7 +20,7 @@ async function run() {
   //   console.log("Post Created", createPost);
   //! Retrieve all the users
     // const users = await prisma.user.findMany({
-    //   //--->include use korle shb data to dekhabei pashapashi relation er je data ase oigulao dekhabe
+    //   //--->include use korle shb data to dekhabei pashapashi relation er je data ase oigulao dekhabe.
     //   include: {
     //     posts: true,
     //     profiles: true,
